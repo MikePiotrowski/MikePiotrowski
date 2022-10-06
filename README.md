@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MikePiotrowski
+- 👋 Hi, I’m Michael Lee Piotrowski
 - 👀 I’m interested in learning more about GIT and Coding in general.
 - 🌱 I’m currently enrolled at Sierra College Majoring in CYbersecurity.
 - 💞️ I’m looking to collaborate on open-source projects.
