@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michael Lee Piotrowski
 - 👀 I’m interested in learning more about GIT and Coding in general.
-- 🌱 I’m currently enrolled at Sierra College Majoring in CYbersecurity.
+- 🌱 I’m currently enrolled at Sierra College Majoring in Cybersecurity.
 - 💞️ I’m looking to collaborate on open-source projects.
 - 📫 My Email: mlp95747@gmail.com
 
