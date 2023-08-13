@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Michael Lee Piotrowski
-- 👀 I’m interested in learning more about GIT and Coding in general.
-- 🌱 I’m currently enrolled at Sierra College Majoring in Cybersecurity.
-- 💞️ I’m looking to collaborate on open-source projects.
+- 👋 Hello there! My name is Michael Lee Piotrowski.
+- 👀 I have a keen interest in open-source projects.
+- 🌱 I am a front-end developer who is currently studying Python and JS.
+- 💞️ I am passionate about cybersecurity. 📫
 - 📫 My Email: mlp95747@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikePiotrowski&show_icons=true&theme=radical)
