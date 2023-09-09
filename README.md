@@ -1,6 +1,6 @@
 - 👋 Hello there! My name is Michael Lee Piotrowski.
 - 👀 I have a keen interest in open-source projects.
-- 🌱 I am a front-end developer who is currently studying Python and JS.
+- 🌱 I am a dedicated aspiring front-end developer with the goal of progressing towards becoming a proficient full-stack developer.
 - 💞️ I am passionate about cybersecurity. 📫
 - 📫 My Email: mlp95747@gmail.com
 
