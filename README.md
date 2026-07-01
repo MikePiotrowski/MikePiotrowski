@@ -5,7 +5,7 @@
 # 👋 Hi, I'm Michael Lee Piotrowski
 **Aspiring Front-End Developer • Future Full-Stack Engineer**
 
-🌟 Passionate about web development, open source, and cybersecurity. Eager to grow, collaborate, and build projects that make a difference!
+🌟 Passionate about web development, open source, cybersecurity, and learning RUST. Eager to grow, collaborate, and build projects that make a difference!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MikePiotrowski&color=brightgreen)
 
