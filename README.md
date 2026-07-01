@@ -45,7 +45,7 @@
 - **Full-Stack Web Development**
 - **Open-Source Collaboration**
 - **Cybersecurity & Ethical Hacking**
-- **RUST**
+- **RUST and**
   **JAVA**
 
 ---
